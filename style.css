@@ -38,3 +38,36 @@
 .sobreTitulo{
          padding: 2%;
 }
+/*Novo CSS*/
+.membroImagem{
+width:120px;
+}
+
+.membroIcone{
+width: 24px;
+}
+
+.membroDiv{
+text-align: center;
+}
+
+.membrosTitulo{
+text-align:center;
+padding: 50px 0;
+}
+
+.membrosTodos{
+display: grid;
+/*Transforma o display em quadrados*/
+grid-template-columns: 10% 20% 20% 20% 20%;
+/*Quanto cada coluna ocupa na página, em sequência*/
+}
+
+.membroDiv{
+text-align:center;
+padding-bottom: 34px;
+}
+
+.membros{
+background-color: rgb(194, 194, 194);
+}
